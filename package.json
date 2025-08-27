@@ -1,0 +1,18 @@
+{
+  "name": "gemini-ren-chatbot",
+  "version": "1.0.0",
+  "description": "A floofy fox boy chatbot website powered by Gemini AI and Hugging Face, built with Node.js and Express.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Vortex (Airplanefox77)",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "cors": "^2.8.5"
+  }
+}
