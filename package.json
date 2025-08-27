@@ -1,6 +1,7 @@
 {
   "name": "gemini-ren-chatbot",
   "version": "1.0.0",
+  "type": "module",
   "description": "A floofy fox boy chatbot website powered by Gemini AI and Hugging Face, built with Node.js and Express.",
   "main": "server/server.js",
   "scripts": {
